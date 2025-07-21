@@ -8,7 +8,7 @@ public class CheckPalindrome1 {
 		String str = "Level";
 		String result = "";
 
-		char[] strArray = str.toCharArray();
+		//char[] strArray = str.toCharArray();
 
 		for (int i = str.length() - 1; i >= 0; i--) {
 
